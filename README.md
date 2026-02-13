@@ -49,7 +49,7 @@ To generate the PDF reports, you need:
    ./Invoke-Audit.ps1
 
 ## 📜 Credits & Acknowledgments
-- **Author:** [Alessandro Mainardi](https://alexmaina.dev)
+- **Author:** [Alessandro Mainardi](https://alexmaina.dev/)
 - **PDF Template:** [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) by Pascal Wagler.
 - **Engines:** Powered by [Pandoc](https://pandoc.org/) and XeLaTeX.
 - **AI Collaboration:** Developed with the support of Gemini AI for code optimization and security logic refinement.
