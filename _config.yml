@@ -1,0 +1,12 @@
+title: MainaAudit
+description: Professional Endpoint Security Auditing Tool
+theme: jekyll-theme-cayman # Il tema Cayman è molto pulito per progetti di sicurezza
+show_downloads: true
+google_analytics: # Inserisci ID se lo hai
+
+# CRUCIALE: Impedisci a Jekyll di toccare i tuoi template di audit
+exclude:
+  - templates/
+  - data/
+  - output/
+  - Invoke-Audit.ps1
