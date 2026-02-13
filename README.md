@@ -1,3 +1,11 @@
+# MainaAudit 🛡️
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Security](https://img.shields.io/badge/Audit-Cybersecurity-red)
+
+> **alexmaina.dev** presents a high-level endpoint security assessment engine.
+---
+
 # MainaAudit v2.5 - Endpoint Security Auditor
 
 MainaAudit is a professional-grade PowerShell security assessment tool designed for Windows endpoints. It performs a deep-dive analysis of the system's security posture, identifying vulnerabilities, misconfigurations, and potential exposures.
