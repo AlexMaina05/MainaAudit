@@ -1,0 +1,9 @@
+# Cartelle di output e dati temporanei
+output/
+data/
+*.pdf
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
