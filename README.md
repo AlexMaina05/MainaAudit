@@ -1,8 +1,3 @@
----
-layout: default
-title: MainaAudit - Security Tool
----
-
 # MainaAudit 🛡️
 [Torna al Sito Principale](https://alexmaina.dev/)
 
