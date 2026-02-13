@@ -3,6 +3,8 @@ title: MainaAudit 🛡️
 description: Professional Endpoint Security Auditor
 remote_theme: pages-themes/hacker@v0.2.0 # Forza l'uso del tema Hacker
 show_downloads: true
+url: "https://alexmaina.dev"
+baseurl: "/MainaAudit"
 
 # Fondamentale per evitare crash con i tuoi template .md
 exclude:
